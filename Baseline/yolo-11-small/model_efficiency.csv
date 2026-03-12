@@ -1,0 +1,2 @@
+model,params_M,GFLOPs,size_MB,latency_ms,FPS
+YOLOv11m,9.432,18.227,18.288,15.558,64.276
