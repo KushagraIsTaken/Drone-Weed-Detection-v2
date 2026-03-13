@@ -1,0 +1,2 @@
+model,params_M,GFLOPs,size_MB,latency_ms,FPS
+YOLO11s_KD,9.432,18.227,18.278,16.987,58.87
