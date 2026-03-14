@@ -1,0 +1,3 @@
+Layout,TotalWeeds,DetectedCount,DetectionRate_pct
+Uniform (real GT),792,792,100.00
+Clustered (synthetic),50,50,100.00

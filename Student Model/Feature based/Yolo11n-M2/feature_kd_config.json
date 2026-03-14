@@ -1,11 +1,3 @@
-{
-  "teacher_model": "/kaggle/input/models/kushagraistaken/teacher-model-final/pytorch/default/1/best.pt",
-  "student_model": "yolo11n.pt",
-  "run_dir": "/kaggle/working/runs/weedmaize_yolo11n_feature_kd",
-  "dataset_yaml": "/kaggle/working/stratified_dataset/weed_yolo/dataset.yaml",
-  "kd_feat_lambda": 1.0,
-  "kd_logit_lambda": 0.25,
-  "kd_temperature": 2.0,
-  "feature_distillation": "attention_transfer_on_detect_fpn_inputs",
-  "logit_distillation": "temperature_scaled_mse_on_raw_detect_outputs"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0258182631c50d2b1f657d83fff88c5ccb33c502fabe9b320cbe4fdc98e90119
+size 503

@@ -20,3 +20,18 @@ env/
 
 # VS Code
 .vscode/
+
+# Environment Variables
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Datasets and Weights
+dataset/
+datasets/
+data/
+runs/
+wandb/
+.DS_Store

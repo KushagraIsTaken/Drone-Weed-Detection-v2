@@ -2,3 +2,6 @@
 Teacher[[:space:]]Model/predictions/*.jpg filter=lfs diff=lfs merge=lfs -text
 Teacher[[:space:]]Model/test_eval/predictions.json filter=lfs diff=lfs merge=lfs -text
 Teacher[[:space:]]Model/plots/12_sample_predictions.png filter=lfs diff=lfs merge=lfs -text
+*.weights filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+*.onnx filter=lfs diff=lfs merge=lfs -text
